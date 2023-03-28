@@ -13,3 +13,13 @@
   align-items: center;
 }
 
+.calculator{
+  background-color: #ecf0f3;
+  padding: 25px;
+  border-radius: 20px;
+  box-shadow: inset 5px 5px 12px #f0ffff,
+                    5px 5px 12px rgba(0,0,0);
+  display: grid;
+  grid-template-columns: repeat(6,68px);
+}
+
